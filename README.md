@@ -1,7 +1,7 @@
 # A comprehensive Web Application
 ## PHP - Bootstrap - MySQL - JavaScript
 
-* **Developed by:** *Kunal Ninawe and Pulak Mehta*
+* **Developed by:** *Pulak Mehta and Kunal Ninawe*
 * **Course Name:** *CS-GY-6083- Principles of Database Systems*
 * **Development environment:** *WAMP Server (Windows Apache MySQL PHP)* 
 * **Programming:** PHP 
