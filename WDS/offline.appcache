@@ -1,0 +1,21 @@
+
+CACHE MANIFEST
+
+CACHE:
+index.php
+assets/css/login_register_style.css
+images/wds_logo
+scripts/index_script.js
+scripts/login_register_script.js
+stylesheets/bootstrap.css
+stylesheets/header_style.css
+stylesheets/index_style.css
+header.php
+footer.php
+
+NETWORK:
+*
+
+FALLBACK:
+/index.php /offline.html
+
